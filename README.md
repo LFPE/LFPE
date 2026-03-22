@@ -38,7 +38,7 @@ const felipe = {
   location: "Gramado, RS 🇧🇷",
   studying: "ADS — 3/4 semestres",
   focus:    ["IA & Transcrição", "Edge Computing", "Data Analytics"],
-  stack:    ["TypeScript", "Node.js", "Python", "Hono", "Cloudflare D1"],
+  stack:    ["TypeScript", "Node.js","Hono", "Cloudflare D1"],
 }
 ```
 
