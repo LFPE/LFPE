@@ -50,7 +50,6 @@ const felipe = {
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-03070f?style=for-the-badge&logo=typescript&logoColor=00ffe0)
 ![Node.js](https://img.shields.io/badge/Node.js-03070f?style=for-the-badge&logo=node.js&logoColor=00ffe0)
-![Python](https://img.shields.io/badge/Python-03070f?style=for-the-badge&logo=python&logoColor=00ffe0)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-03070f?style=for-the-badge&logo=cloudflare&logoColor=00ffe0)
 ![SQLite](https://img.shields.io/badge/SQLite-03070f?style=for-the-badge&logo=sqlite&logoColor=00ffe0)
 ![Git](https://img.shields.io/badge/Git-03070f?style=for-the-badge&logo=git&logoColor=00ffe0)
