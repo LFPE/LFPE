@@ -11,7 +11,7 @@
 
 ### `Systems Analyst`
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&pause=1000&color=00FFE0&center=true&vCenter=true&width=500&lines=Systems+Analyst+Student+(3%2F4);AI+%26+Automation+Engineer;Cloudflare+D1+%2B+Hono+Stack;Edge+Computing+%7C+Zero+Latency" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&pause=1000&color=00FFE0&center=true&vCenter=true&width=500&lines=Systems+Analyst+Student+(3%2F4);Cloudflare+D1+%2B+Hono+Stack;Edge+Computing+%7C+Zero+Latency" />
 
 </div>
 
