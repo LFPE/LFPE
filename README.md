@@ -44,6 +44,19 @@ const felipe = {
 
 ---
 
+### `> projects --latest`
+
+<div align="center">
+
+| Status | Projeto | Papel | Stack |
+| :---: | :--- | :--- | :--- |
+| 🟢 | **[Capy Code](https://github.com/Equipe-Capy-Code/Capy-Code)** | Analista de Sistemas | Node.js, Markdown, HTML/CSS |
+
+</div>
+
+
+---
+
 ### `> tech --list`
 
 <div align="center">
